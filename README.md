@@ -1,5 +1,6 @@
 - Hi, I’m @breakintoprogram
 - I’m currently working on firmware for the Agon microcomputer board
+- Other notable repositories inlude my ZX Spectrum and Spectrum Next Z80 libraries, and Pico-mposite
 - You can find me on social media:
   - Twitter: [@breakintoprog](https://twitter.com/breakintoprog)
   - Blog: [breakintoprogram.co.uk](http://www.breakintoprogram.co.uk)
