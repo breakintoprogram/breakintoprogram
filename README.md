@@ -7,7 +7,9 @@
   - YouTube: [youtube.com/BreakIntoProgram](https://www.youtube.com/BreakIntoProgram)
   - Mastadon: [oldbytes.space/@breakintoprogram](https://oldbytes.space/@breakintoprogram)
 
-I do not make any money out of my designs, and am quite happy contributing to the various communitiies I'm involved in with no obligations. However, if you like what I am doing and would like to contribute, you can do so at [ko-fi.com/breakintoprogram](https://ko-fi.com/breakintoprogram).
+I do not make any money out of my designs, and am quite happy contributing to the various communitiies I'm involved in with no obligations.
+
+However, if you like what I am doing and would like to contribute, you can do so at [ko-fi.com/breakintoprogram](https://ko-fi.com/breakintoprogram).
 
 <!---
 breakintoprogram/breakintoprogram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
