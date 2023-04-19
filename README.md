@@ -1,5 +1,5 @@
 - Hi, I’m @breakintoprogram
-- I’m currently working on the official Quark firmware for the Agon Light microcomputer board
+- In my spare time I’m working on the official Quark firmware for the Agon Light microcomputer board
 - Other notable repositories inlude my ZX Spectrum and Spectrum Next Z80 libraries, and Pico-mposite
 - You can find me on social media:
   - Twitter: [@breakintoprog](https://twitter.com/breakintoprog)
