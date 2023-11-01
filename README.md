@@ -6,7 +6,7 @@
   - Blog: [breakintoprogram.co.uk](http://www.breakintoprogram.co.uk)
   - YouTube: [youtube.com/BreakIntoProgram](https://www.youtube.com/BreakIntoProgram)
   - Mastadon: [oldbytes.space/@breakintoprogram](https://oldbytes.space/@breakintoprogram)
-  - Blue Sky: (@breakintoprogram.bsky.social)[https://bsky.app/profile/breakintoprogram.bsky.social]
+  - Blue Sky: [@breakintoprogram.bsky.social](https://bsky.app/profile/breakintoprogram.bsky.social)
 
 I do not make any money out of my designs, and am quite happy contributing to the various communitiies I'm involved in with no obligations.
 
