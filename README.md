@@ -8,7 +8,7 @@
   - Mastadon: [oldbytes.space/@breakintoprogram](https://oldbytes.space/@breakintoprogram)
   - Blue Sky: [@breakintoprogram.bsky.social](https://bsky.app/profile/breakintoprogram.bsky.social)
 
-I do not make any money out of my designs, and am quite happy contributing to the various communitiies I'm involved in with no obligations.
+I am quite happy contributing to the various communitiies I'm involved in with no obligations.
 
 However, if you like what I am doing and would like to contribute, you can do so at [ko-fi.com/breakintoprogram](https://ko-fi.com/breakintoprogram).
 
