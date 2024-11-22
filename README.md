@@ -9,7 +9,7 @@ You can find me on social media:
   - Twitter: [@breakintoprog](https://twitter.com/breakintoprog)
   - YouTube: [youtube.com/BreakIntoProgram](https://www.youtube.com/BreakIntoProgram)
   - Mastadon: [oldbytes.space/@breakintoprogram](https://oldbytes.space/@breakintoprogram)
-  - Blue Sky: [@breakintoprogram.bsky.social](https://bsky.app/profile/breakintoprogram.bsky.social)
+  - Blue Sky: [@breakintoprogram.bsky.social](https://bsky.app/profile/breakintoprogram.co.uk)
 
 I am quite happy contributing to the various communitiies I'm involved in with no obligations
 
