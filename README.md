@@ -8,8 +8,6 @@ I am quite happy contributing to the various communitiies I'm involved in with n
 
 However, if you like what I am doing and would like to contribute, you can do so at [ko-fi.com/breakintoprogram](https://ko-fi.com/breakintoprogram)
 
-[I am also raising money in memory of my good friend Geoff Follin in aid of Pancreatic Cancer UK](https://github.com/breakintoprogram/archive-follin)
-
 <!---
 breakintoprogram/breakintoprogram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
