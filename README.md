@@ -1,8 +1,10 @@
-Hi, I’m @breakintoprogram
+Hi, I’m Dean Belfield aka @breakintoprogram
 
-I'm an ex-games developer who worked at various companies in the UK in the 80s and 90s
+I'm a lead software developer, currently looking for work in the UK
 
-I now repair, code, and blog about retro computers as a hobby
+I was a games developer in the late '80s, with several games published to my name
+
+In my leisure time I repair, code, and blog about retro computers and peripherals
 
 I am quite happy contributing to the various communitiies I'm involved in with no obligations
 
