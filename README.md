@@ -2,8 +2,6 @@ Hi, I’m Dean Belfield aka @breakintoprogram
 
 I was a games developer in the late '80s, with several games published to my name
 
-Currently working full-time as a software engineer in the UK
-
 In my leisure time I repair, code, and blog about retro computers and peripherals
 
 I am quite happy contributing to the various communitiies I'm involved in with no obligations
